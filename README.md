@@ -67,6 +67,7 @@
     </td>
   </tr>
 </table>
+</details>
 
 
 <!-- Hide sicret text iside photo using piton -->
