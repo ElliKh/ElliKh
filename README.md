@@ -33,6 +33,12 @@
     </li>
 </ul>
 
+
+<!-- My Skill Sets -->
+<a href="#--about-me--"><img src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/others/colorful_line.gif"></a>
+<br/><br/>
+
+
 <!-- my Specialization -->
 <h2><b>Specialization</b></h2>
 <p>While I have a diverse skill set across various technologies, my primary focus is on <strong>Backend Development</strong>. I have extensive experience working with Django, FastAPI,  and RESTful API design. This focus allows me to build robust and scalable backend systems, ensuring seamless integration with frontend interfaces and efficient data management.</p>
