@@ -22,9 +22,10 @@
 <ul>
     <li>Software developer with bold ideas</li>
     <li>Currently working on an open-source project called 
-        <strong>CamAI-Search</strong>
+        <strong>CarsAI</strong>
     </li>
-    <li>Graduated with a degree in Computer Science and 3.5 years of experience as a Python developer</li>
+    <li>Graduated with a degree in Computer Science and 1.5 years of experience as a Python developer</li>
+    <li>Received a degree in Hardware since 2000</li>
     <li>Passionate about various technologies including Django, RESTful, FastAPI,  and more</li>
     <li>Active on social media 
         <a href="https://t.me/Ilia_Khokhman">Telegram</a> and 
@@ -71,7 +72,7 @@
 
 
 <!-- Hide sicret text iside photo using piton -->
-### Hide secret text inside an image using Python.
+<!-- ### Hide secret text inside an image using Python.
 
 ```python
 # pip install stegano
@@ -81,7 +82,7 @@ secret = lsb.hide('image.png', 'очень секретный текст')
 secret.save('secret_image.png')
 
 print(lsb.reveal('secret_image.png'))
-```
+``` -->
 
 <!-- icons and contacts -->
 <div id="header" align="center">
