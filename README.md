@@ -57,17 +57,29 @@
 <br/><br/>
 
 <!-- Details  -->
-<details>
-    <summary><strong>GitHub Stats</strong></summary>
-    <table align="center">
+
+<div style="display: flex; align-items: center">
+  <h1> 
+    My GitHub Stats 
+    <a href="#-my-github-stats--">
+      <img src = "https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/others/charts.gif" width = 35px height = 35px>
+    </a>
+  </h1>
+</div>
+
+
+
+
+<table align="center">
   <tr>
     <td align="center" width="45%">
-        <a href="#-my-github-stats--"><img width="100%" src="https://gh-readme-profile.vercel.app/api?username=ElliKh&theme=dark&border_width=0&border_radius=15.2&hide_border=true" alt="ElliKh" /></a>
+        <a href="#-my-github-stats--"><img width="100%" src="https://gh-readme-profile.vercel.app/api?username=ElliKh&theme=neon-dark&border_width=0&border_radius=15.2&hide_border=true" alt="HighAmbition211" /></a>
     </td>
     <td align="center" width="55%">
-        <a href="#-my-github-stats--"><img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ElliKh&theme=dark" alt="ElliKh" /></a>
+        <a href="#-my-github-stats--"><img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ElliKh&theme=2077" alt="HighAmbition211" /></a>
     </td>
   </tr>
+
   <tr>
     <td align="center" width="40%">
         <a href="#-my-github-stats--"><img width="100%" src="https://github-readme-streak-stats.herokuapp.com?user=ElliKh&theme=dark&hide_border=true&border_radius=9.4&ring=3A0CA3&fire=D62828&dates=00F5D4&sideLabels=FFC300&stroke=8338EC&currStreakLabel=FFC300" alt="ElliKh" /></a>
