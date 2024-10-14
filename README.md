@@ -53,6 +53,9 @@
     <li><strong>Other Technologies:</strong>  Nginx, Linux, Docker, Trello, Jira, Aiogram, Telegram Bot API, Beautiful Soup, Pillow </li>
 </ul>
 
+<a href="#--about-me--"><img src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/others/colorful_line.gif"></a>
+<br/><br/>
+
 <!-- Details  -->
 <details>
     <summary><strong>GitHub Stats</strong></summary>
